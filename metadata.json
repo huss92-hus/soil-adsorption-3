@@ -1,0 +1,6 @@
+{
+  "name": "برنامج حساب وحركية الإمتزاز الإحصائي المتقدم",
+  "description": "تطبيق متقدم لحساب وتحليل موديلات توازن وحركية الإمتزاز (Isotherms & Kinetics) مع التقييم الإحصائي والتفسير العلمي والتصدير",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
